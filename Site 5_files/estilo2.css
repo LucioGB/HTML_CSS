@@ -1,0 +1,30 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+   background-color: gray;
+}
+
+.logo{
+    width: 100px;
+
+    position: relative;
+}
+
+.menu ul{
+    list-style: none;
+}
+
+.menu li{
+    display: inline;
+}
+
+.menu{
+    border: 1px solid salmon;
+    position: absolute;
+    right: 50px;
+    bottom: 0;
+
+}

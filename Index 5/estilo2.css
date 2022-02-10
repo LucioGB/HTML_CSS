@@ -1,0 +1,21 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+   background-color: gray;
+   padding: 8px ;
+
+   display: flex;
+}
+
+.logo{
+    width: 60px;
+}
+
+.menu li{
+    display: inline;
+    margin: 0 8px;
+;
+}
